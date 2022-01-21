@@ -297,7 +297,7 @@ a, a:focus, a:hover, a:active {
 }
 /* MENU STYLE  */
 ul.menuStyle {
-	padding: 30px 0 0px 0 !important;
+	padding: 10px 0 0px 0 !important;
 	clear: both !important;
 }
 ul.menuStyle a {
